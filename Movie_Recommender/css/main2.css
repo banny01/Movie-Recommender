@@ -1,0 +1,21 @@
+body {
+	background-color: #c3dbd0;
+
+	font-family: Arial;
+	font-size: 14px;
+}
+
+p.greeting{
+	background: red;
+	color: white;
+	border: 10px;
+	height: 15px;
+	padding: 10px;
+		
+}
+.all{
+	float: left;
+}
+.rec{
+	float: right;
+}
